@@ -1,12 +1,11 @@
 ## DevOps Jogja Community
 
-<!--
+Komunitas DevOps, Infra, dan Site Reliability Engineer daerah Jogja beserta sekitarnya.
 
-**Here are some ideas to get you started:**
+Silahkan join dan follow kita di link berikut:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+☎️ [Telegram](https://t.me/devopsjogja)
+
+🤵‍♂️ [Linkedin](https://www.linkedin.com/company/devops-jogja)
+
+📷 [Instagram](https://www.instagram.com/devopsjogja/)
